@@ -4,3 +4,6 @@ Developed this repository while I was taking the course: [Learn JavaScript by Bu
 
 # Memory Game
 [Memory Game](https://utsavpshah.github.io/js-games/memory-game/index.html)
+
+# Whack-a-mole
+[Whack-a-mole](https://utsavpshah.github.io/js-games/whack-a-mole/index.html)
